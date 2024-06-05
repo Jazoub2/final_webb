@@ -180,6 +180,7 @@ turncount = 0;
 function changeScene(){
   window.location.href = "/loading"
 }
+/*chatgpt*/
 function smoothScroll(elementId) {
   const element = document.getElementById(elementId);
   if (element != null) {
