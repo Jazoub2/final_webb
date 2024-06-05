@@ -56,6 +56,7 @@
 <style>
     canvas {
         border: 1px solid #000000;
+        
     }
     .container {
         position: relative;
