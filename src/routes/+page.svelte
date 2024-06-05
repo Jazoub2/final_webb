@@ -15,8 +15,7 @@ let dontshow = true;
 let p1turn = true;
 let turncount = 0;
 
-let superDone = false; 
-
+let superDone = false;  
 
   //Template  ,{name:"",img:"/.png",set:"",color:"#"}
 let charachters =[
@@ -85,7 +84,7 @@ let charachters =[
 ,{name:"Nikola Tesla",img:"/nikolaTeslaProfile.png",set:"Tales To Amaze",color:"#800020"}
 
 ,{name:"Oda Nobunaga",img:"/odaNobunagaProfile.png",set:"Sun's Origin",color:"#800020"}
-,{name:"Tomoe Gozen",img:"/tomoeGozenProfile.png",set:"Sun's Origin",color:"#008080"}
+,{name:"Tomoe Gozen",img:"/tomoeGozenProfile.png",set:"Sun's Origin",color:"#008080"} 
 ]
 /**
  * @param {{ name: string; img: string; set: string; color: string; }} charachter

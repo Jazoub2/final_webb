@@ -35,6 +35,14 @@
 					map-pick
 				</a>
 				<a
+				class="btn btn-sm variant-ghost-surface"
+				href="/sisophys"
+				target="_blank"
+				rel="noreferrer"
+			>
+				sisophys
+			</a>
+				<a
 					class="btn btn-sm variant-ghost-surface"
 					href="/home-page"
 					target="_blank"

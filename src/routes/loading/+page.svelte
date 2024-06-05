@@ -1,7 +1,8 @@
 <script>
-    import { ProgressRadial } from '@skeletonlabs/skeleton';
+    import { ProgressRadial } from '@skeletonlabs/skeleton'
+    import {redirect} from "@sveltejs/kit"
     function changescene(){
-        window.location.href = "/map-pick"
+       redirect(307, "/map-pick")
     }
     setTimeout(() => {
         changescene()
