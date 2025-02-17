@@ -26,65 +26,65 @@ let charachters =[
 
 ,{name:"Bruce Lee",img:"/bruceLeeProfile.png",set:"BruceLee",color:"orange"}
 
-,{name:"Robin Hood",img:"/robinHoodProfile.png",set:"RobinHood Vs Bigfoot",color:"darkgreen"}
-,{name:"Bigfoot",img:"/bigFootProfile.png",set:"RobinHood Vs Bigfoot",color:"brown"}
+,{name:"Robin Hood",img:"robinHoodProfile.png",set:"RobinHood Vs Bigfoot",color:"darkgreen"}
+,{name:"Bigfoot",img:"bigFootProfile.png",set:"RobinHood Vs Bigfoot",color:"brown"}
 
-,{name:"InGen",img:"/ingenProfile.png",set:"Jurassic Park InGen Vs Raptors",color:"rgb(255, 68, 51)"}
-,{name:"Raptors",img:"/raptorsProfile.png",set:"Jurassic Park InGen Vs Raptors",color:"lime"}
+,{name:"InGen",img:"ingenProfile.png",set:"Jurassic Park InGen Vs Raptors",color:"rgb(255, 68, 51)"}
+,{name:"Raptors",img:"raptorsProfile.png",set:"Jurassic Park InGen Vs Raptors",color:"lime"}
 
-,{name:"Sherlock Holmes",img:"/sherlockHolmesProfile1.png",set:"Cobble & Fog",color:"yellow"}
-,{name:"Invisible Man",img:"/invisibleManProfile.png",set:"Cobble & Fog",color:"turquoise"}
-,{name:"Jekyll & Hyde",img:"/jekyll&HydeProfile.png",set:"Cobble & Fog",color:"lime"}
-,{name:"Dracula",img:"/draculaProfile.png",set:"Cobble & Fog",color:"black"}
+,{name:"Sherlock Holmes",img:"sherlockHolmesProfile1.png",set:"Cobble & Fog",color:"yellow"}
+,{name:"Invisible Man",img:"invisibleManProfile.png",set:"Cobble & Fog",color:"turquoise"}
+,{name:"Jekyll & Hyde",img:"jekyll&HydeProfile.png",set:"Cobble & Fog",color:"lime"}
+,{name:"Dracula",img:"draculaProfile.png",set:"Cobble & Fog",color:"black"}
 
-,{name:"Buffy",img:"/buffyProfile1.png",set:"Buffy the vampire slayer",color:"yellow"}
-,{name:"Willow",img:"/willowProfile.png",set:"Buffy the vampire slayer",color:"turquoise"}
-,{name:"Spike",img:"/spikeProfile.png",set:"Buffy the vampire slayer",color:"salmon"}
-,{name:"Angel",img:"/angelProfile.png",set:"Buffy the vampire slayer",color:"purple"}
+,{name:"Buffy",img:"buffyProfile1.png",set:"Buffy the vampire slayer",color:"yellow"}
+,{name:"Willow",img:"willowProfile.png",set:"Buffy the vampire slayer",color:"turquoise"}
+,{name:"Spike",img:"spikeProfile.png",set:"Buffy the vampire slayer",color:"salmon"}
+,{name:"Angel",img:"angelProfile.png",set:"Buffy the vampire slayer",color:"purple"}
 
-,{name:"Beowulf",img:"/beowulfProfile.png",set:"Little red riding hood vs Beowulf",color:"#088F8F"}
-,{name:"Little Red Riding Hood",img:"/littleRedProfile.png",set:"Little red riding hood vs Beowulf",color:"#722F37"}
+,{name:"Beowulf",img:"beowulfProfile.png",set:"Little red riding hood vs Beowulf",color:"#088F8F"}
+,{name:"Little Red Riding Hood",img:"littleRedProfile.png",set:"Little red riding hood vs Beowulf",color:"#722F37"}
 
-,{name:"Deadpool",img:"/deadpoolProfile.png",set:"Deadpool",color:"#722F37"}
+,{name:"Deadpool",img:"deadpoolProfile.png",set:"Deadpool",color:"#722F37"}
 
-,{name:"Sun Wukong",img:"/sunWukongProfile.png",set:"Battle Of legends Volume 2",color:"yellow"}
-,{name:"Achilles",img:"/achillesProfile.png",set:"Battle Of legends Volume 2",color:"orange"}
-,{name:"Bloody Mary",img:"/bloodyMaryProfile.png",set:"Battle Of legends Volume 2",color:"#686868"}
-,{name:"Yennenga",img:"/yennengaProfile.png",set:"Battle Of legends Volume 2",color:"#00008B"}
+,{name:"Sun Wukong",img:"sunWukongProfile.png",set:"Battle Of legends Volume 2",color:"yellow"}
+,{name:"Achilles",img:"achillesProfile.png",set:"Battle Of legends Volume 2",color:"orange"}
+,{name:"Bloody Mary",img:"bloodyMaryProfile.png",set:"Battle Of legends Volume 2",color:"#686868"}
+,{name:"Yennenga",img:"yennengaProfile.png",set:"Battle Of legends Volume 2",color:"#00008B"}
 
-,{name:"Luke Cage",img:"/lukeCageProfile.png",set:"Redemption Row",color:"yellow"}
-,{name:"Ghost Rider",img:"/ghostRiderProfile.png",set:"Redemption Row",color:"orange"}
-,{name:"Moon Knight",img:"/moonKnightProfile.png",set:"Redemption Row",color:"white"}
+,{name:"Luke Cage",img:"lukeCageProfile.png",set:"Redemption Row",color:"yellow"}
+,{name:"Ghost Rider",img:"ghostRiderProfile.png",set:"Redemption Row",color:"orange"}
+,{name:"Moon Knight",img:"moonKnightProfile.png",set:"Redemption Row",color:"white"}
 
-,{name:"Daredevil",img:"/daredevilProfile.png",set:"Hell's Kitchen",color:"orange"}
-,{name:"Elektra",img:"/elektraProfile.png",set:"Hell's Kitchen",color:"black"}
-,{name:"Bullseye",img:"/bullseyeProfile.png",set:"Hell's Kitchen",color:"#6F8FAF"}
+,{name:"Daredevil",img:"daredevilProfile.png",set:"Hell's Kitchen",color:"orange"}
+,{name:"Elektra",img:"elektraProfile.png",set:"Hell's Kitchen",color:"black"}
+,{name:"Bullseye",img:"bullseyeProfile.png",set:"Hell's Kitchen",color:"#6F8FAF"}
 
-,{name:"T-Rex",img:"/trexProfile.png",set:"Jurassic Park Sattler vs T-Rex",color:"#A020F0"}
-,{name:"Dr. Sattler",img:"/drSattlerProfile.png",set:"Jurassic Park Sattler vs T-Rex",color:"pink"}
+,{name:"T-Rex",img:"trexProfile.png",set:"Jurassic Park Sattler vs T-Rex",color:"#A020F0"}
+,{name:"Dr. Sattler",img:"drSattlerProfile.png",set:"Jurassic Park Sattler vs T-Rex",color:"pink"}
 
-,{name:"Houdini",img:"/houdiniProfile.png",set:"Houdini Vs The Genie",color:"#203010"}
-,{name:"The Genie",img:"/theGenieProfile.png",set:"Houdini Vs The Genie",color:"#800080"}
+,{name:"Houdini",img:"houdiniProfile.png",set:"Houdini Vs The Genie",color:"#203010"}
+,{name:"The Genie",img:"theGenieProfile.png",set:"Houdini Vs The Genie",color:"#800080"}
 
-,{name:"Ms. Marvel",img:"/msMarvelProfile.png",set:"Teen Spirit",color:"yellow"}
-,{name:"Squirell Girl",img:"/squirellGirlProfile.png",set:"Teen Spirit",color:"#7B3F00"}
-,{name:"Cloak and Dagger",img:"/cloakAndDaggerProfile.png",set:"Teen Spirit",color:"#1D1936"}
+,{name:"Ms. Marvel",img:"msMarvelProfile.png",set:"Teen Spirit",color:"yellow"}
+,{name:"Squirell Girl",img:"squirellGirlProfile.png",set:"Teen Spirit",color:"#7B3F00"}
+,{name:"Cloak and Dagger",img:"cloakAndDaggerProfile.png",set:"Teen Spirit",color:"#1D1936"}
 
-,{name:"Black Widow",img:"/blackWidowProfile.png",set:"For King and Country",color:"red"}
-,{name:"Black Panther",img:"/blackPantherProfile.png",set:"For King and Country",color:"purple"}
-,{name:"Winter Soldier",img:"/winterSoldierProfile.png",set:"For King and Country",color:"grey"}
+,{name:"Black Widow",img:"blackWidowProfile.png",set:"For King and Country",color:"red"}
+,{name:"Black Panther",img:"blackPantherProfile.png",set:"For King and Country",color:"purple"}
+,{name:"Winter Soldier",img:"winterSoldierProfile.png",set:"For King and Country",color:"grey"}
 
-,{name:"Dr. Strange",img:"/drStrangeProfile.png",set:"Brains And Brawn",color:"yellow"}
-,{name:"Spiderman",img:"/spiderManProfile.png",set:"Brains And Brawn",color:"red"}
-,{name:"She-Hulk",img:"/sheHulkProfile.png",set:"Brains And Brawn",color:"lime"}
+,{name:"Dr. Strange",img:"drStrangeProfile.png",set:"Brains And Brawn",color:"yellow"}
+,{name:"Spiderman",img:"spiderManProfile.png",set:"Brains And Brawn",color:"red"}
+,{name:"She-Hulk",img:"sheHulkProfile.png",set:"Brains And Brawn",color:"lime"}
 
-,{name:"Dr. Jill Trent",img:"/drJillTrentProfile.png",set:"Tales To Amaze",color:"turquoise"}
-,{name:"Golden Bat",img:"/goldenBatProfile.png",set:"Tales To Amaze",color:"#FFD700"}
-,{name:"Annie Christmas",img:"/annieChristmasProfile.png",set:"Tales To Amaze",color:"purple"}
-,{name:"Nikola Tesla",img:"/nikolaTeslaProfile.png",set:"Tales To Amaze",color:"#800020"}
+,{name:"Dr. Jill Trent",img:"drJillTrentProfile.png",set:"Tales To Amaze",color:"turquoise"}
+,{name:"Golden Bat",img:"goldenBatProfile.png",set:"Tales To Amaze",color:"#FFD700"}
+,{name:"Annie Christmas",img:"annieChristmasProfile.png",set:"Tales To Amaze",color:"purple"}
+,{name:"Nikola Tesla",img:"nikolaTeslaProfile.png",set:"Tales To Amaze",color:"#800020"}
 
-,{name:"Oda Nobunaga",img:"/odaNobunagaProfile.png",set:"Sun's Origin",color:"#800020"}
-,{name:"Tomoe Gozen",img:"/tomoeGozenProfile.png",set:"Sun's Origin",color:"#008080"} 
+,{name:"Oda Nobunaga",img:"odaNobunagaProfile.png",set:"Sun's Origin",color:"#800020"}
+,{name:"Tomoe Gozen",img:"tomoeGozenProfile.png",set:"Sun's Origin",color:"#008080"} 
 ]
 /**
  * @param {{ name: string; img: string; set: string; color: string; }} charachter
