@@ -19,12 +19,12 @@ let superDone = false;
 
   //Template  ,{name:"",img:"/.png",set:"",color:"#"}
 let charachters =[
- {name:"Medusa",img:"/medusaProfile.png",set:"Battle Of legends Volume 1",color:"lime"}
-,{name:"King Arthur",img:"/kingArthurProfile.png",set:"Battle Of legends Volume 1",color:"red"}
-,{name:"Alice",img:"/aliceProfile.png",set:"Battle Of legends Volume 1",color:"blue"}
-,{name:"Simbad",img:"/simbadProfile.png",set:"Battle Of legends Volume 1",color:"orange"}
+ {name:"Medusa",img:"medusaProfile.png",set:"Battle Of legends Volume 1",color:"lime"}
+,{name:"King Arthur",img:"kingArthurProfile.png",set:"Battle Of legends Volume 1",color:"red"}
+,{name:"Alice",img:"aliceProfile.png",set:"Battle Of legends Volume 1",color:"blue"}
+,{name:"Simbad",img:"simbadProfile.png",set:"Battle Of legends Volume 1",color:"orange"}
 
-,{name:"Bruce Lee",img:"/bruceLeeProfile.png",set:"BruceLee",color:"orange"}
+,{name:"Bruce Lee",img:"bruceLeeProfile.png",set:"BruceLee",color:"orange"}
 
 ,{name:"Robin Hood",img:"robinHoodProfile.png",set:"RobinHood Vs Bigfoot",color:"darkgreen"}
 ,{name:"Bigfoot",img:"bigFootProfile.png",set:"RobinHood Vs Bigfoot",color:"brown"}
